@@ -1,0 +1,20 @@
+.container {
+	text-align: center;
+}
+
+a {
+	text-decoration: none;
+}
+
+a:link,
+a:visited {
+	color: #00e;
+}
+
+a:hover {
+	color: #e00;
+}
+
+a:active {
+	color: #0e0;
+}
